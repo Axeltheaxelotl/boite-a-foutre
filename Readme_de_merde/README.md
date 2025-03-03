@@ -88,11 +88,18 @@
 | --- | --- | --- |
 
 
+<h1>
+</h1>
+
 <br>
 </br>
 
-# 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-# 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟
-# 🌟 🌟 🌟 🌟 🌟 **[Normino](https://github.com/SLDDL/Normino)** 🌟 🌟 🌟 🌟 🌟
-# 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟
-# 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+<h1>
+  <p align="center" style="font-family: 'Courier New', monospace; font-size: 1.7em; color: #333; border: 2px solid #333; padding: 20px; border-radius: 50%; display: inline-block;">
+    <a href="https://github.com/SLDDL/Normino" style="color: #333; text-decoration: none;">
+      🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟<br>
+      🌟 🌟 🌟 🌟 🌟 <strong>Normino</strong> 🌟 🌟 🌟 🌟 🌟<br>
+      🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+    </a>
+  </p>
+</h1>
