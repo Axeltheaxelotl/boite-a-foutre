@@ -2,13 +2,13 @@
   <table>
     <tr>
         <td>
-         <img src="https://i.pinimg.com/originals/43/c2/67/43c267e52522227083f5d46042106a4c.gif" width="100" height="100" />
+         <img src="https://i.pinimg.com/originals/bc/74/df/bc74df762fc1590d1d92df7c60cb093c.gif" width="150" height="150S" />
         </td>
       <td style="text-align: center;">
         <h2>La boîte à foutre : <br>Quand j’ai la flemme de coder</h2>
     </td>
       <td>
-        <img src="https://i.pinimg.com/originals/22/68/ad/2268ad9881b97a5b46c4660265953d9e.gif" width="100" height="100" />
+        <img src="https://i.pinimg.com/originals/fd/33/12/fd3312dfb08887fa27c1c2ce6709291a.gif" width="150" height="150" />
       </td>
     </tr>
   </table>
