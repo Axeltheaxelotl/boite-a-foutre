@@ -76,7 +76,11 @@
 
 <br>
 
+<div align="left" style="font-size: 50px;">
+  Mais amours mais chéries
+</div>
+
 <div align="center">
 
-| <img src="https://i.pinimg.com/736x/8f/ba/d3/8fbad3f818fb5b9095f08fc6af0c11c7.jpg?v=4&s=120" width="120" height="120"> [alanty](https://profile.intra.42.fr/users/alanty) <br> *ta geule* | <img src="https://i.pinimg.com/736x/4c/c8/f4/4cc8f48fdc2fb67a714672243683d116.jpg?v=4&s=120" width="120" height="120"> [didimitr](https://profile.intra.42.fr/users/didimitr) <br> *bite* | <img src="https://i.pinimg.com/736x/fe/ae/74/feae744859c367ea94c7c128b06bd9a6.jpg?v=4&s=120" width="120" height="120"> [persone numero 3 tg](https://github.com/) <br> *wsh* |
+| <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-50.png?raw=true?v=4&s=120" width="120" height="120"> [alanty](https://profile.intra.42.fr/users/alanty) <br> *ta geule* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-36.png?raw=true?v=4&s=120" width="120" height="120"> [didimitr](https://profile.intra.42.fr/users/didimitr) <br> *bite* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-47-02.png?raw=true?v=4&s=120" width="120" height="120"> [persone numero 3 tg](https://github.com/) <br> *wsh* |
 | --- | --- | --- |
