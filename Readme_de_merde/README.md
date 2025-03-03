@@ -1,27 +1,11 @@
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <!-- Image à gauche -->
-    <td style="text-align: left; padding: 10px;">
-      <img src="https://i.pinimg.com/736x/6b/17/23/6b1723669fa429613efb4a01c8580b51.jpg" alt="Sam et sa cousine" style="width:200px; height:150px;">
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <div style="border: 2px solid #000; padding: 10px 20px; border-radius: 10px; font-size: 24px;">
-        LE GAY DE 42 LUXEMBOURG 🖥️
-      </div>
-    </td>
-    <td style="text-align: right; padding: 10px; font-size: 18px;">
-      💾 j’ai déjà recodé la Norminette<br>
-      avant vous. 💾
-    </td>
-  </tr>
-</table>
+<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
+  <a href="https://profile.intra.42.fr/users/didimitr" target="_blank" style="text-decoration: none; color: #333;">
+    JE SUIS PAS GAY COMME SIMON
+  </a>
+</h1>
 
+### Langages :
 
-<div align="center" style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; font-size: 30px;">
-   Langages :
-</div>
-
-<br>
 
 <div align="center">
   <table>
