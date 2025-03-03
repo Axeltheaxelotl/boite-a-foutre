@@ -1,20 +1,21 @@
-<h1 style="display: flex; align-items: center; justify-content: center; gap: 20px; font-family: Arial, sans-serif;">
-  <!-- Texte à gauche -->
-  <div style="font-size: 18px; transform: rotate(-10deg);">
-    <img src="https://i.pinimg.com/736x/6b/17/23/6b1723669fa429613efb4a01c8580b51.jpg" alt="Sam et sa cousine" style="width:200px; height:150px;">
-  </div>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <!-- Image à gauche -->
+    <td style="text-align: left; padding: 10px;">
+      <img src="https://i.pinimg.com/736x/6b/17/23/6b1723669fa429613efb4a01c8580b51.jpg" alt="Sam et sa cousine" style="width:200px; height:150px;">
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <div style="border: 2px solid #000; padding: 10px 20px; border-radius: 10px; font-size: 24px;">
+        LE GAY DE 42 LUXEMBOURG 🖥️
+      </div>
+    </td>
+    <td style="text-align: right; padding: 10px; font-size: 18px;">
+      💾 j’ai déjà recodé la Norminette<br>
+      avant vous. 💾
+    </td>
+  </tr>
+</table>
 
-  <!-- Texte central encadré -->
-  <div style="border: 2px solid #000; padding: 10px 20px; border-radius: 10px; font-size: 24px;">
-    LE GAY DE 42 LUXEMBOURG 🖥️
-  </div>
-
-  <!-- Texte à droite -->
-  <div align="center" style="font-size: 18px; transform: rotate(10deg);">
-    💾  j’ai déjà recodé la Norminette<br>
-         avant vous. 💾
-  </div>
-</h1>
 
 <div align="center" style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; font-size: 30px;">
    Langages :
