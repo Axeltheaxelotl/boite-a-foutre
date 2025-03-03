@@ -74,8 +74,9 @@
   <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-23-14.png?raw=true" alt="Sam et sa cousine" style="width:1000px; height:500px;"
 </div>
 
+<br>
 
 <div align="center">
 
-| <img src="https://i.pinimg.com/736x/8f/ba/d3/8fbad3f818fb5b9095f08fc6af0c11c7.jpg?v=4&s=120" width="120" height="120"> [gabrielle-pch](https://github.com/gabrielle-pch) <br> *parle pas de mon gros front* | <img src="https://i.pinimg.com/736x/4c/c8/f4/4cc8f48fdc2fb67a714672243683d116.jpg?v=4&s=120" width="120" height="120"> [Nowex214](https://github.com/Nowex214) <br> *Son oncle c'est pasqualerossi* | <img src="https://i.pinimg.com/736x/fe/ae/74/feae744859c367ea94c7c128b06bd9a6.jpg?v=4&s=120" width="120" height="120"> [fabiosilva24](https://github.com/fabiosilva24) <br> *wsh y a fabio* |
+| <img src="https://i.pinimg.com/736x/8f/ba/d3/8fbad3f818fb5b9095f08fc6af0c11c7.jpg?v=4&s=120" width="120" height="120"> [alanty](https://profile.intra.42.fr/users/alanty) <br> *ta geule* | <img src="https://i.pinimg.com/736x/4c/c8/f4/4cc8f48fdc2fb67a714672243683d116.jpg?v=4&s=120" width="120" height="120"> [didimitr](https://profile.intra.42.fr/users/didimitr) <br> *bite* | <img src="https://i.pinimg.com/736x/fe/ae/74/feae744859c367ea94c7c128b06bd9a6.jpg?v=4&s=120" width="120" height="120"> [persone numero 3 tg](https://github.com/) <br> *wsh* |
 | --- | --- | --- |
