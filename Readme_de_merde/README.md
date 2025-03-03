@@ -6,7 +6,6 @@
 
 ### Langages :
 
-
 <div align="center">
   <table>
     <tr>
@@ -87,3 +86,13 @@
 
 | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-50.png?raw=true?v=4&s=120" width="120" height="120"> [alanty](https://profile.intra.42.fr/users/alanty) <br> *ta geule* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-36.png?raw=true?v=4&s=120" width="120" height="120"> [didimitr](https://profile.intra.42.fr/users/didimitr) <br> *bite* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-47-02.png?raw=true?v=4&s=120" width="120" height="120"> [persone numero 3 tg](https://github.com/) <br> *wsh* |
 | --- | --- | --- |
+
+
+<br>
+</br>
+
+# 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+# 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟
+# 🌟 🌟 🌟 🌟 🌟 **[Normino](https://github.com/SLDDL/Normino)** 🌟 🌟 🌟 🌟 🌟
+# 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟
+# 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
