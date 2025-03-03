@@ -1,8 +1,8 @@
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
         <td>
-         <img src="https://i.pinimg.com/originals/bc/74/df/bc74df762fc1590d1d92df7c60cb093c.gif" width="150" height="150S" />
+         <img src="https://i.pinimg.com/originals/bc/74/df/bc74df762fc1590d1d92df7c60cb093c.gif" width="150" height="150" />
         </td>
       <td style="text-align: center;">
         <h2>La boîte à foutre : <br>Quand j’ai la flemme de coder</h2>
@@ -13,6 +13,7 @@
     </tr>
   </table>
 </div>
+
 
 <h1>
 </h1>
