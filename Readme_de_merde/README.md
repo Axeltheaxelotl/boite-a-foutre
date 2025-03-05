@@ -1,10 +1,11 @@
-<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
-  <a href="https://profile.intra.42.fr/users/didimitr" target="_blank" style="text-decoration: none; color: #333;">
-    JE SUIS PAS GAY COMME SIMON
-  </a>
-</h1>
+<div align="center">
+  <img src="https://i.pinimg.com/736x/d4/a6/d7/d4a6d7bb7e0f50ad9b3cff778852f9be.jpg" alt="Sam et sa cousine" style="width:1000px; height:200px;>
 
-### Langages :
+</div>
+
+<h1>
+  Langages :
+</h1 >
 
 <div align="center">
   <table>
@@ -79,7 +80,7 @@
 <br>
 
 <div align="left" style="font-size: 50px;">
-  Mais amours mais chéries
+  Mes amours mes chéris
 </div>
 
 <div align="center">
@@ -103,3 +104,5 @@
     </a>
   </p>
 </h1>
+
+
