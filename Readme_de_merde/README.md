@@ -4,7 +4,7 @@
 </div>
 
 <h1>
-  <p align="left">
+  <p align="right">
    Langages :
   </p>
 </h1>
