@@ -38,7 +38,7 @@
       </td>
       <!-- Cellule pour l'image (fusionnée verticalement) -->
       <td rowspan="2" style="padding-left: 20px;">
-        <img src="https://i.pinimg.com/736x/6d/27/6c/6d276c2f89726696490fec7d209e832b.jpg" alt="Sam et sa cousine" style="width:170px; height:170px;">
+        <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-06%2019-08-33.png?raw=true" alt="Sam et sa cousine" style="width:170px; height:170px;">
       </td>
     </tr>
     <tr>
@@ -84,9 +84,11 @@
 
 <br>
 
-<div align="left" style="font-size: 50px;">
-  Mes amours mes chéris
-</div>
+<h1 align="left">
+<tr> 
+  <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
+</tr>
+</h1>
 
 <div align="center">
 
