@@ -9,6 +9,7 @@
   <img src="https://i.pinimg.com/736x/d4/a6/d7/d4a6d7bb7e0f50ad9b3cff778852f9be.jpg" alt="Sam et sa cousine" style="width:1000px; height:200px;>
 
 </div>
+---
 
 <div align="center">
   <h1>
