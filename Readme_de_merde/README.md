@@ -86,7 +86,7 @@
 
 <div align="center">
 
-| <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-50.png?raw=true?v=4&s=120" width="120" height="120"> [alanty](https://profile.intra.42.fr/users/alanty) <br> *ta geule* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-36.png?raw=true?v=4&s=120" width="120" height="120"> [didimitr](https://profile.intra.42.fr/users/didimitr) <br> *bite* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-47-02.png?raw=true?v=4&s=120" width="120" height="120"> [persone numero 3 tg](https://github.com/) <br> *wsh* |
+| <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-50.png?raw=true?v=4&s=120" width="120" height="120"> [alanty](https://profile.intra.42.fr/users/alanty) <br> *ta geule* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-36.png?raw=true?v=4&s=120" width="120" height="120"> [didimitr](https://profile.intra.42.fr/users/didimitr) <br> *bite* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-47-02.png?raw=true?v=4&s=120" width="120" height="120"> [rbiskin](https://profile.intra.42.fr/users/rbiskin) <br> *wsh* |
 | --- | --- | --- |
 
 
@@ -124,6 +124,7 @@ ash curl s⢹⡇⠀⠀⠀⠀⠀⣠⣾⠏mass⠈⠉⠉⠙⠛⠉e.
 xyz | bash⠘⣿⣄⠀⠀⣠⣾⠟⠁curl smasse.xy
 z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
     <br>
-    <img src="https://i.pinimg.com/736x/0d/7f/9c/0d7f9c9d1e1f0d1d042d70d76ab4b959.jpg" alt="Sam et sa cousine" style="width:1000px; height:300px;>
   </pre>
 </h1>
+
+<img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67c9d4e3af389032430224.gif?raw=true" alt="Sam et sa cousine" style="width:1000px; height:500px;">
