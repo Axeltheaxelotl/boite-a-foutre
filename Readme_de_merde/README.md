@@ -78,6 +78,7 @@
   </table>
 </div>
 
+---
 
 <h1>
   <p align="center" style="font-family: 'Courier New', monospace; font-size: 1.7em; color: #333; border: 2px solid #333; padding: 20px;">
