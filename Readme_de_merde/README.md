@@ -68,6 +68,78 @@
 </div>
 
 
+
+
+
+<div align="center">
+  <h1>
+    <p align="left">
+      Langages :
+    </p>
+  </h1>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <table>
+      <tr>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
+            <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white">
+          </div>
+        </td>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
+            <img src="https://img.shields.io/badge/C++-%230035A9.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+          </div>
+        </td>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
+            <img src="https://img.shields.io/badge/Python-%232391F3.svg?style=for-the-badge&logo=Python&logoColor=white">
+          </div>
+        </td>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
+            <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white">
+          </div>
+        </td>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
+            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
+            <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+          </div>
+        </td>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
+            <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+          </div>
+        </td>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
+            <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
+          </div>
+        </td>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
+            <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+          </div>
+        </td>
+        <td>
+          <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
+            <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white">
+          </div>
+        </td>
+      </tr>
+    </table>
+    <div style="margin-left: 20px;">
+      <img src="https://i.pinimg.com/736x/9b/83/ff/9b83ffdd1875f369af6dcef888516ab8.jpg" alt="Sam et sa cousine" style="width:170px; height:170px;">
+    </div>
+  </div>
+</div>
+
 <h1>
   <p align="center" style="font-family: 'Courier New', monospace; font-size: 1.7em; color: #333; border: 2px solid #333; padding: 20px;">
    Dimitre Dimitrov mon combat
