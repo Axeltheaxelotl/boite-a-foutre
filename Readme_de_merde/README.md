@@ -109,11 +109,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDDL&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" style="max-width: 350px;">
   </div>
 
-  <!-- Snake Game -->
-  <div style="margin-bottom: 30px;">
-    <img src="https://github.com/SLDDL/SLDDL/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%; height: auto; border-radius: 10px;">
-  </div>
-
   <!-- Streaks -->
   <div style="margin-bottom: 30px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLDDL&theme=tokyonight&locale=fr" alt="GitHub Streak" style="max-width: 550px; border-radius: 10px;">
