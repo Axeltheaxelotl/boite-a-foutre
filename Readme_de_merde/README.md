@@ -1,3 +1,10 @@
+<p>
+  <img src="https://img.shields.io/github/followers/SLDDL?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/SLDDL?label=Stars&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SLDDL&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SLDDL" />
+
+</p>
+
 <div align="center">
   <img src="https://i.pinimg.com/736x/d4/a6/d7/d4a6d7bb7e0f50ad9b3cff778852f9be.jpg" alt="Sam et sa cousine" style="width:1000px; height:200px;>
 
@@ -74,7 +81,7 @@
 
 <h1>
   <p align="center" style="font-family: 'Courier New', monospace; font-size: 1.7em; color: #333; border: 2px solid #333; padding: 20px;">
-   Dimitre Dimitrov mon combat
+    💕❤️⬇️ Dimitre Dimitrov mon combat ⬇️❤️💕
   </p>
 </h1>
 
@@ -84,16 +91,39 @@
 
 <br>
 
-<h1 align="left">
-<tr> 
-  <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
-</tr>
-</h1>
-
 <div align="center">
 
 | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-50.png?raw=true?v=4&s=120" width="120" height="120"> [alanty](https://profile.intra.42.fr/users/alanty) <br> *ta geule* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-36.png?raw=true?v=4&s=120" width="120" height="120"> [didimitr](https://profile.intra.42.fr/users/didimitr) <br> *bite* | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-47-02.png?raw=true?v=4&s=120" width="120" height="120"> [rbiskin](https://profile.intra.42.fr/users/rbiskin) <br> *wsh* |
 | --- | --- | --- |
+</div>
+
+---
+
+### GITHUB 🐱 :
+
+<div align="center">
+  <!-- Stats Globales -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SLDDL&show_icons=true&theme=tokyonight&locale=fr" alt="SLDDL's GitHub stats" style="max-width: 350px;">
+    <!-- Langages utilisés -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDDL&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" style="max-width: 350px;">
+  </div>
+
+  <!-- Snake Game -->
+  <div style="margin-bottom: 30px;">
+    <img src="https://github.com/SLDDL/SLDDL/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%; height: auto; border-radius: 10px;">
+  </div>
+
+  <!-- Streaks -->
+  <div style="margin-bottom: 30px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLDDL&theme=tokyonight&locale=fr" alt="GitHub Streak" style="max-width: 550px; border-radius: 10px;">
+  </div>
+
+  <!-- Trophées -->
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=SLDDL&theme=tokyonight&margin-w=15&no-frame=true" alt="trophies" style="max-width: 500px; border-radius: 10px;">
+  </div>
+</div>
 
 
 <h1>
