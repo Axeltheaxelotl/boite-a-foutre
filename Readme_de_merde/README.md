@@ -106,7 +106,7 @@
 <h1 align="center">
   <pre>
     <table align="center" border="0" align="center;">
-      <tr>
+      <tr> <br>
        <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
       </tr>
     </table>
