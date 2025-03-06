@@ -107,4 +107,13 @@
   </p>
 </h1>
 
+<h1 align="center">
+  <p style="font-family: 'Courier New', monospace; font-size: 2em; color: #fff; background: linear-gradient(to right, #ff7e5f, #feb47b); border: 3px solid #fff; padding: 30px; border-radius: 25px; text-align: center; display: inline-block; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
+    <a href="https://github.com/SLDDL/Normino" style="color: #fff; text-decoration: none; font-weight: bold;">
+      <span style="font-size: 2.5em; letter-spacing: 2px; display: block;">🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟</span>
+      <span style="font-size: 2.2em; font-weight: bold; color: #ff6f61;">🌟 🌟 🌟 🌟 🌟 <strong style="font-size: 2.5em; color: #fff;">Normino</strong> 🌟 🌟 🌟 🌟 🌟</span>
+      <span style="font-size: 2.5em; display: block;">🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟</span>
+    </a>
+  </p>
+</h1>
 
