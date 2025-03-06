@@ -106,10 +106,12 @@
 <h1 align="center">
   <pre>
     <table align="center" border="0" align="center;">
-      <tr> <br>
+      <tr> 
        <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
       </tr>
     </table>
+      <img src="https://i.pinimg.com/originals/7f/4c/4a/7f4c4a02703fada4e32c89c161c1bceb.gif" alt="Sam et sa cousine" style="width:1000px; height:300px;">
+      <br>
 curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s
 masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm
 asse.xyz |⣸⡇⠀⠀⠀⠀⠀⠙⢿⣦⡀ba⢀⣀⣀⣠⣤⣀sh
@@ -126,5 +128,7 @@ smasse.xyz⣿⡆⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣦⣤⣤⣄⣀⣀⣤⡇b
 ash curl s⢹⡇⠀⠀⠀⠀⠀⣠⣾⠏mass⠈⠉⠉⠙⠛⠉e.
 xyz | bash⠘⣿⣄⠀⠀⣠⣾⠟⠁curl smasse.xy
 z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
+    <br>
+    <img src="https://i.pinimg.com/736x/0d/7f/9c/0d7f9c9d1e1f0d1d042d70d76ab4b959.jpg" alt="Sam et sa cousine" style="width:1000px; height:300px;>
   </pre>
 </h1>
