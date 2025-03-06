@@ -3,13 +3,12 @@
 
 </div>
 
+<div align="center">
 <h1>
-  <p align="right">
+  <p align="left">
    Langages :
   </p>
 </h1>
-
-<div align="center">
   <table>
     <tr>
       <td>
@@ -98,22 +97,23 @@
 </br>
 
 <h1 align="center">
-  <pre>
-curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s/
-masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm/
-asse.xyz |⣸⡇⠀⠀⠀⠀⠀⠙⢿⣦⡀ba⢀⣀⣀⣠⣤⣀sh/
-curl smass⣿⠇⠀⠀⠀⠀⠀⠀⠀⠙⠿⠿⠟⠛⠛⠋⠉⠉⠛⣧e/
-| bash cu⢠⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇/
-rl sm⣀⣤⣶⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿a/
-s⣠⣶⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡿⠁s/
-⢸⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟bash/
-⢸⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀  <a href="https://github.com/SLDDL/Normino" style="color: #333; text-decoration: none; font-weight: bold;">NORMINO</a>⠀⠀⠀⠀⠀⠘⣷curl/
-s⠙⠿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷mas/
-s | b⠉⠛⠿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆a/
-sh curl ⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇|/
-smasse.xyz⣿⡆⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣦⣤⣤⣄⣀⣀⣤⡇b/
-ash curl s⢹⡇⠀⠀⠀⠀⠀⣠⣾⠏mass⠈⠉⠉⠙⠛⠉e./
-xyz | bash⠘⣿⣄⠀⠀⣠⣾⠟⠁curl smasse.xy/
-z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b/
-  </pre>
+  NORMINO 
+
+<h1 align="center">
+curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s<br>
+masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm<br>
+asse.xyz |⣸⡇⠀⠀⠀⠀⠀⠙⢿⣦⡀ba⢀⣀⣀⣠⣤⣀sh<br>
+curl smass⣿⠇⠀⠀⠀⠀⠀⠀⠀⠙⠿⠿⠟⠛⠛⠋⠉⠉⠛⣧e<br>
+| bash cu⢠⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇<br>
+rl sm⣀⣤⣶⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿a<br>
+s⣠⣶⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡿⠁s<br>
+⢸⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟bash<br>
+⢸⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀  <a href="https://github.com/SLDDL/Normino" style="color: #333; text-decoration: none; font-weight: bold;">NORMINO</a>⠀⠀⠀⠀⠀⠘⣷curl<br>
+s⠙⠿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷mas<br>
+s | b⠉⠛⠿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆a<br>
+sh curl ⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇|<br>
+smasse.xyz⣿⡆⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣦⣤⣤⣄⣀⣀⣤⡇b<br>
+ash curl s⢹⡇⠀⠀⠀⠀⠀⣠⣾⠏mass⠈⠉⠉⠙⠛⠉e.<br>
+xyz | bash⠘⣿⣄⠀⠀⣠⣾⠟⠁curl smasse.xy<br>
+z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b<br>
 </h1>
