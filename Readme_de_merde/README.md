@@ -97,10 +97,25 @@
 </br>
 
 <h1 align="center">
+  <table>
+  ⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
+  </table>
+</h1>
+
+<table border="1" align="center" cellpadding="10" cellspacing="0" style="border-collapse: collapse; font-family: monospace; font-size: 20px;">
+  <tr>
+    <td>⭐⭐ NORMINO ⭐⭐ : curl smasse.xyz | bash</td>
+  </tr>
+</table>
+
+
+<h1 align="center">
   <pre>
-    <div align="left">
-    NORMINO : curl smasse.xyz | bash
-  </div>
+    <table border="1" align="center" cellpadding="10" cellspacing="0" style="border-collapse: collapse; font-family: monospace; font-size: 20px;">
+      <tr>
+       <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
+      </tr>
+    </table>
 curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s
 masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm
 asse.xyz |⣸⡇⠀⠀⠀⠀⠀⠙⢿⣦⡀ba⢀⣀⣀⣠⣤⣀sh
