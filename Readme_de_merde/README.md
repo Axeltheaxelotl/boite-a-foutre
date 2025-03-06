@@ -104,7 +104,7 @@
       </td>
       <!-- Cellule pour l'image (fusionnée verticalement) -->
       <td rowspan="2" style="padding-left: 20px;">
-        <img src="https://i.pinimg.com/736x/9b/83/ff/9b83ffdd1875f369af6dcef888516ab8.jpg" alt="Image" style="max-width: 200px; border-radius: 10px; border: 2px solid #000;">
+        <img src="https://i.pinimg.com/736x/9b/83/ff/9b83ffdd1875f369af6dcef888516ab8.jpg" alt="Sam et sa cousine" style="width:170px; height:170px;">
       </td>
     </tr>
     <tr>
