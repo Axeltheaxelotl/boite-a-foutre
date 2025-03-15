@@ -9,18 +9,14 @@
 </p>
 
 
-<div align="center">
+<h1 align="center">
   <img src="https://i.pinimg.com/736x/f8/dd/35/f8dd359eb131a264b1624f5b89b67818.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;>
 
-</div>
+</h1>
 
 ---
 
-<h1>
-</h1>
 
-<br>
-<br>
 
 <div align="center">
   <table>
@@ -54,6 +50,7 @@
     </tr>
   </table>
 </div>
+
 ---
 
 <h1>
