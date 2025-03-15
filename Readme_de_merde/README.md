@@ -25,7 +25,7 @@
 
 ## Compétences
 
-### Langages
+#### Langages
 
 ![bash](https://skillicons.dev/icons?i=bash) 
 ![C](https://skillicons.dev/icons?i=c)
@@ -35,7 +35,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
-### Outils
+#### Outils
 
 ![Linux](https://skillicons.dev/icons?i=linux) 
 ![Git](https://skillicons.dev/icons?i=git) 
