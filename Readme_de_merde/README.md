@@ -74,10 +74,6 @@
 | --- | --- | --- |
 </div>
 
----
-
-### GITHUB 🐱 :
-
 <div align="center">
   <!-- Stats Globales -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 30px;">
@@ -106,7 +102,7 @@
 
 <h2 align ="center";>
 <tr> 
-  <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash : LEADERBORD
+  <td>⭐⭐NORMINO⭐⭐ : bash curl smasse.xyz | bash : LEADERBORD
 </tr>
 </h2>
 
