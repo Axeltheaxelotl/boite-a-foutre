@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://img.shields.io/github/followers/SLDDL?label=Followers&style=for-the-badge&color=purple" />
-  <img src="https://img.shields.io/github/stars/SLDDL?label=Stars&style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/stars/SLDDL?label=Stars&style=for-the-badge&color=white" />
   <img src="https://komarev.com/ghpvc/?username=SLDDL&label=Profile%20views&color=purple&style=for-the-badge" alt="SLDDL" />
 </p>
 
@@ -17,73 +17,37 @@
 ---
 
 <div align="center">
-  <h1>
-    <p align="left">
-      Langages :
-    </p>
-  </h1>
   <table>
     <tr>
       <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
-          <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white">
-        </div>
-      </td>
+
+## Compétences
+
+### Langages
+
+![bash](https://skillicons.dev/icons?i=bash) 
+![C](https://skillicons.dev/icons?i=c)
+![flutter](https://skillicons.dev/icons?i=flutter) 
+![C++](https://skillicons.dev/icons?i=cpp) 
+![Python](https://skillicons.dev/icons?i=python) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![Rust](https://skillicons.dev/icons?i=rust)
+
+### Outils
+
+![Linux](https://skillicons.dev/icons?i=linux) 
+![Git](https://skillicons.dev/icons?i=git) 
+![Docker](https://skillicons.dev/icons?i=docker) 
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+
+</td>
       <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
-          <img src="https://img.shields.io/badge/C++-%230035A9.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-        </div>
-      </td>
-      <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
-          <img src="https://img.shields.io/badge/Python-%232391F3.svg?style=for-the-badge&logo=Python&logoColor=white">
-        </div>
-      </td>
-      <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
-          <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white">
-        </div>
-      </td>
-      <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
-          <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-        </div>
-      </td>
-      <!-- Cellule pour l'image (fusionnée verticalement) -->
-      <td rowspan="2" style="padding-left: 20px;">
-        <img src="https://i.pinimg.com/originals/6f/1f/30/6f1f308da0d735fdabee2e3711b28bd8.gif" alt="Sam et sa cousine" style="width:170px; height:170px;">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
-          <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-        </div>
-      </td>
-      <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
-          <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-        </div>
-      </td>
-      <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
-          <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
-        </div>
-      </td>
-      <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(10deg);">
-          <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-        </div>
-      </td>
-      <td>
-        <div style="border: 2px solid #000; padding: 10px; width: fit-content; border-radius: 10px; transform: rotate(-10deg);">
-          <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white">
-        </div>
+        <img src="https://i.pinimg.com/originals/51/13/f0/5113f04a22371dfc36f3314d353fe556.gif" width="180" />
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 <h1>
