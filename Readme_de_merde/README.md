@@ -31,9 +31,9 @@
 ![C](https://skillicons.dev/icons?i=c)
 ![flutter](https://skillicons.dev/icons?i=flutter) 
 ![C++](https://skillicons.dev/icons?i=cpp) 
-![Python](https://skillicons.dev/icons?i=python) 
+![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
-![Rust](https://skillicons.dev/icons?i=rust)
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ### Outils
 
