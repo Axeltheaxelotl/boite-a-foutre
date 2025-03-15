@@ -45,7 +45,7 @@
 
 </td>
       <td>
-        <img src="https://i.pinimg.com/originals/1d/33/eb/1d33ebd1309cc93a76ea7a2e532ad4f3.gif" width="200" />
+        <img src="https://i.pinimg.com/originals/1d/33/eb/1d33ebd1309cc93a76ea7a2e532ad4f3.gif" alt="Sam et sa cousine" style="width:200px; height:200px;"/>
       </td>
     </tr>
   </table>
