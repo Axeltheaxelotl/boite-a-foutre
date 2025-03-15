@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/f8/dd/35/f8dd359eb131a264b1624f5b89b67818.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;>
+  <img src="https://i.pinimg.com/736x/65/04/7e/65047e4b48baf5515f51255683ff7787.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;>
 
 </h1>
 
@@ -89,7 +89,7 @@
 
   <!-- Trophées -->
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=SLDDL&theme=tokyonight&margin-w=15&no-frame=true" alt="trophies" style="max-width: 500px; border-radius: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=SLDDL&theme=tokyonight&margin-w=15&no-frame=true" alt="trophies" style="max-width: 400px; border-radius: 10px;">
   </div>
 </div>
 
@@ -140,7 +140,7 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
         </h4>
       </td>
       <td align="center">
-        <img src="https://i.pinimg.com/originals/97/35/82/973582d9b0e0761a1b880edb78b7f4e7.gif" alt="Sam et sa cousine" style="width:1000px; height:400px;"/>
+        <img src="https://i.pinimg.com/originals/c9/9d/8e/c99d8e94ea8d3d8a3e89d945b719fe56.gif" alt="Sam et sa cousine" style="width:1000px; height:400px;"/>
       </td>
     </tr>
   </table>
