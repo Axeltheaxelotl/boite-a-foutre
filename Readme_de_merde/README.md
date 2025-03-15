@@ -135,47 +135,6 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
 
 <img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67c9d4e3af389032430224.gif?raw=true" alt="Sam et sa cousine" style="width:1000px; height:500px;">
 
-
-<div align="center">
-  <table>
-    <tr>
-        <td>
-         <img src="https://camo.githubusercontent.com/8832f6da5261255416e55f9b1f285410c7384919f2d47aa68e2525e593796d5f/68747470733a2f2f692e70696e696d672e636f6d2f373336782f31362f30632f66662f31363063666637393865333538356234616537333739396339316335633862382e6a7067" width="200" />
-        </td>
-      <td>
-        <h2> *** J'ai déjà utilisé ChatGPT avant vous !!! *** </h2><h1 align="center">
-          <pre>
-            </table>
-              <h2>curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s
-              masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm
-              asse.xyz |⣸⡇⠀⠀⠀⠀⠀⠙⢿⣦⡀ba⢀⣀⣀⣠⣤⣀sh
-              curl smass⣿⠇⠀˖๋⠀⠀⠀⠀⠀⠙⠿⠿⠟⠛⠛⠋⠉⠉⠛⣧e
-              | bash cu⢠⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
-              rl sm⣀⣤⣶⠿⠋⠀⠀⠀⠀⠀⠀𖥔˖๋⠀⠀⠀⠀⠀⭐⠀⠀⠀⢠⡿a
-              s⣠⣶⠿⠛⠉⠀⠀⟡⋆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡿⠁s
-              ⢸⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟bash
-              ⢸⣧⡀⠀⠀⠀𖥔⠀⠀⠀⠀  <a href="https://github.com/SLDDL/Normino" style="color: #333; text-decoration: none; font-weight: bold;">NORMINO</a>⠀⠀⠀⠀⠀⠘⣷curl
-                s⠙⠿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷mas
-                s | b⠉⠛⠿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⊹₊⠀⠀⠀⠀⠀⠘⣆a
-                sh curl |⠘⣿⠀ ⭐⠀⠀⠀⠀𖥔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
-                smasse.xyz⣿⡆⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣦⣤⣤⣄⣀⣀⣤⡇b
-                ash curl s⢹⡇⠀⠀⠀⠀⠀⣠⣾⠏mass⠈⠉⠉⠙⠛⠉e.
-                xyz | bash⠘⣿⣄⠀⠀⣠⣾⠟⠁curl smasse.xy
-    z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
-    <br>
-  </pre>
-</h1>
-      </td>
-      <td>
-        <img src="https://i.pinimg.com/originals/97/35/82/973582d9b0e0761a1b880edb78b7f4e7.gif" width="200" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
 <div align="center">
   <table>
     <tr>
@@ -185,9 +144,11 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
       </td>
       <td align="center">
         <h2> *** J'ai déjà utilisé ChatGPT avant vous !!! *** </h2>
-        <h1>
+        <h5>
           <pre>
-curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl smasse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl smasse.xyz |⣸⡇⠀⠀⠀⠀⠀⠙⢿⣦⡀ba⢀⣀⣀⣠⣤⣀sh
+curl smasse⢀⣤⣤⣤⣤⡀xyz | bash⠀curl s
+masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm
+asse.xyz |⣸⡇⠀⠀⠀⠀⠀⠙⢿⣦⡀ba⢀⣀⣀⣠⣤⣀sh
 curl smass⣿⠇⠀˖๋⠀⠀⠀⠀⠀⠙⠿⠿⠟⠛⠛⠋⠉⠉⠛⣧e
 | bash cu⢠⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
 rl sm⣀⣤⣶⠿⠋⠀⠀⠀⠀⠀⠀𖥔˖๋⠀⠀⠀⠀⠀⭐⠀⠀⠀⢠⡿a
@@ -202,7 +163,7 @@ ash curl s⢹⡇⠀⠀⠀⠀⠀⣠⣾⠏mass⠈⠉⠉⠙⠛⠉e.
 xyz | bash⠘⣿⣄⠀⠀⣠⣾⠟⠁curl smasse.xy
 z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
           </pre>
-        </h1>
+        </h5>
       </td>
       <td align="center">
         <img src="https://i.pinimg.com/originals/97/35/82/973582d9b0e0761a1b880edb78b7f4e7.gif" width="200" />
