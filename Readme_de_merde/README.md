@@ -51,7 +51,7 @@
       </td>
       <!-- Cellule pour l'image (fusionnée verticalement) -->
       <td rowspan="2" style="padding-left: 20px;">
-        <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-06%2019-08-33.png?raw=true" alt="Sam et sa cousine" style="width:170px; height:170px;">
+        <img src="https://i.pinimg.com/originals/6f/1f/30/6f1f308da0d735fdabee2e3711b28bd8.gif" alt="Sam et sa cousine" style="width:170px; height:170px;">
       </td>
     </tr>
     <tr>
