@@ -100,7 +100,7 @@
 <br>
 </br>
 
-<h2 align ="center";>
+<h2 align ="center";>-
 <tr> 
   <td>⭐⭐NORMINO⭐⭐ : bash curl smasse.xyz | bash : LEADERBORD
 </tr>
@@ -115,7 +115,7 @@ curl smasse.xyz | bash
     <tr>
       <!-- Colonne pour l'image de gauche -->
       <td align="center">
-        <img src="https://camo.githubusercontent.com/8832f6da5261255416e55f9b1f285410c7384919f2d47aa68e2525e593796d5f/68747470733a2f2f692e70696e696d672e636f6d2f373336782f31362f30632f66662f31363063666637393865333538356234616537333739396339316335633862382e6a7067" alt="Sam et sa cousine" style="width:1000px; height:400px;" />
+        <img src="https://i.pinimg.com/originals/30/e0/6c/30e06c87a8008d7308668f53bf16590e.gif" alt="Sam et sa cousine" style="width:1000px; height:400px;" />
       </td>
       <td align="center">
         <h4>
