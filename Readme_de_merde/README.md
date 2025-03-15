@@ -1,12 +1,12 @@
 <p>
-  <img src="https://img.shields.io/github/followers/SLDDL?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/SLDDL?label=Stars&style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=SLDDL&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SLDDL" />
-
+  <img src="https://img.shields.io/github/followers/SLDDL?label=Followers&style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/stars/SLDDL?label=Stars&style=for-the-badge&color=purple" />
+  <img src="https://komarev.com/ghpvc/?username=SLDDL&label=Profile%20views&color=purple&style=for-the-badge" alt="SLDDL" />
 </p>
 
+
 <div align="center">
-  <img src="https://i.pinimg.com/736x/d4/a6/d7/d4a6d7bb7e0f50ad9b3cff778852f9be.jpg" alt="Sam et sa cousine" style="width:1000px; height:200px;>
+  <img src="https://i.pinimg.com/736x/f8/dd/35/f8dd359eb131a264b1624f5b89b67818.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;>
 
 </div>
 
@@ -90,7 +90,10 @@
 
 <div align="center">
   <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-23-14.png?raw=true" alt="Sam et sa cousine" style="width:1000px; height:500px;"
+
 </div>
+
+---
 
 <br>
 
