@@ -106,9 +106,13 @@
 
 <h2 align ="center";>
 <tr> 
-  <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash
+  <td>⭐⭐NORMINO⭐⭐ : curl smasse.xyz | bash : LEADERBORD
 </tr>
 </h2>
+
+```bash
+curl smasse.xyz | bash
+```
 
 <div align="center">
   <table>
