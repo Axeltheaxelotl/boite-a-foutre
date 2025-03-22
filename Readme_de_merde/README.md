@@ -1,13 +1,12 @@
 <h1 align="center">
-  <strong>CUMZONE</strong>
+  <strong>CUMZONE DIMITRI GOCK GOCK</strong>
 </h1>
 
-<p>
-  <img src="https://img.shields.io/github/followers/SLDDL?label=Followers&style=for-the-badge&color=purple" />
-  <img src="https://img.shields.io/github/stars/SLDDL?label=Stars&style=for-the-badge&color=white" />
-  <img src="https://komarev.com/ghpvc/?username=SLDDL&label=Profile%20views&color=purple&style=for-the-badge" alt="SLDDL" />
-</p>
-
+<div>
+  <img src="https://img.shields.io/github/followers/SLDDL?label=Followers&style=for-the-badge&color=9B4DFF" />
+  <img src="https://img.shields.io/github/stars/SLDDL?label=Stars&style=for-the-badge&color=6A3DFF" />
+  <img src="https://komarev.com/ghpvc/?username=SLDDL&label=Profile%20views&color=5A2AFF&style=for-the-badge" alt="SLDDL" />
+</div>
 
 <h1 align="center">
   <img src="https://media1.tenor.com/m/hnoK1uLDdxwAAAAd/nichijou-nichijou-my-ordinary-life.gif" alt="Sam et sa cousine" style="width:1000px; height:500px;>
