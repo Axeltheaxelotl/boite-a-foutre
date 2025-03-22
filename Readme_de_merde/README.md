@@ -150,7 +150,7 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
 
 <img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67d5c89ecaf89218071116.gif?raw=true" alt="Sam et sa cousine" style="width:1000px; height:300px;">
 
-<h4>Contacts</h4>
+<h2 align="left">Contacts</h2>
 
 <div style="text-align: center;">
   <table align="center" style="width: 100%; table-layout: fixed;">
