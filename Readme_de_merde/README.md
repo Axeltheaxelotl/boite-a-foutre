@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>CUMZONE DIMITRI GOCK GOCK</strong>
+  <strong>🥛🥛CUMZONE DIMITRI GOCK GOCK 8=✊=D💦💦</strong>
 </h1>
 
 <div>
