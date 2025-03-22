@@ -20,9 +20,9 @@
     <tr>
       <td>
 
-## Compétences :
+## 👾 Compétences 👾 :
 
-#### Langages :
+#### Langages 🍇 :
 
 ![bash](https://skillicons.dev/icons?i=bash) 
 ![C](https://skillicons.dev/icons?i=c)
@@ -58,11 +58,9 @@
     </tr>
 </div>
 
-<br></br>
-
 <h1>
   <p align="center" style="font-family: 'Courier New', monospace; font-size: 1.7em; color: #333; border: 2px solid #333; padding: 20px;">
-    💕❤️⬇️ Dimitre Dimitrov mon combat ⬇️❤️💕
+    💜⬇️ Dimitre Dimitrov mon combat ⬇️💜
   </p>
 </h1>
 
@@ -109,7 +107,7 @@
 
 <h2 align ="center">-
 <tr> 
-  <td>⭐⭐Normino⭐⭐ : bash curl smasse.xyz | bash : Leberbor
+  <td>🟪🟣Normino🟣🟪 : bash curl smasse.xyz | bash : Leberbor
 </tr>
 </h2>
 
@@ -134,13 +132,13 @@ masse.xyz ⢠⣿⠋⠀⠀⠙⢿⣦⡀| bash curl sm
 asse.xyz |⣸⡇⠀⠀⠀⠀⠀⠙⢿⣦⡀ba⢀⣀⣀⣠⣤⣀sh
 curl smass⣿⠇⠀˖๋⠀⠀⠀⠀⠀⠙⠿⠿⠟⠛⠛⠋⠉⠉⠛⣧e
 | bash cu⢠⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
-rl sm⣀⣤⣶⠿⠋⠀⠀⠀⠀⠀⠀𖥔˖๋⠀⠀⠀⠀⠀⭐⠀⠀⠀⢠⡿a
+rl sm⣀⣤⣶⠿⠋⠀⠀⠀⠀⠀⠀𖥔˖๋⠀⠀⠀⠀⠀🌸⠀⠀⠀⢠⡿a
 s⣠⣶⠿⠛⠉⠀⠀⟡⋆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡿⠁s
 ⢸⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟bash
-⢸⣧⡀⠀⠀⠀𖥔⠀⠀⠀⠀  <a href="https://github.com/SLDDL/Normino" style="color: #333; text-decoration: none; font-weight: bold;">NORMINO</a>    ⠘⣷curl
+⢸⣧⡀⠀⠀⠀𖥔⠀⠀⠀ <a href="https://github.com/SLDDL/Normino" style="color: #333; text-decoration: none; font-weight: bold;">NORMINO</a>        ⠘⣷curl
 s⠙⠿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷mas
 s | b⠉⠛⠿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⊹₊⠀⠀⠀⠀⠀⠘⣆a
-sh curl |⠘⣿⠀ ⭐⠀⠀⠀⠀𖥔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
+sh curl |⠘⣿⠀ 🌸⠀⠀⠀⠀𖥔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
 smasse.xyz⣿⡆⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣦⣤⣤⣄⣀⣀⣤⡇b
 ash curl s⢹⡇⠀⠀⠀⠀⠀⣠⣾⠏mass⠈⠉⠉⠙⠛⠉e.
 xyz | bash⠘⣿⣄⠀⠀⣠⣾⠟⠁curl smasse.xy
