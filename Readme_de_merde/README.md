@@ -52,7 +52,7 @@
 
 <div align="center" style="text-align: center;">
   <table>
-    <tr><td colspan="2" ><h1 align="left">Contacts ദ്ദി •⩊• )</h1></td></tr>
+    <tr><td colspan="2" ><h1 align="left">Contacts ദ്ദി •⩊• </h1></td></tr>
     <tr>
       <td><a href="https://slddl.ovh/" style="color: #333; text-decoration: none; font-weight: bold;">🔗wallah c pas un virus⬅</a></td>
       <td><img src="https://i.pinimg.com/originals/1f/27/9f/1f279fd24a9d1e199ac3b9bbaa173327.gif" alt="Sam et sa cousine" style="width:375px; height:225px;"></td>
