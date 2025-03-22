@@ -155,6 +155,9 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
 <h1 align="left">Contacts ദ്ദി •⩊• )</h1>
 
 <div align="center" style="text-align: center;">
-    <a href="https://slddl.ovh/" style="color: #333; text-decoration: none; font-weight: bold;">ceci et un lien</a>
-    </a>
+  <table>
+    <tr>
+      <td><a href="https://slddl.ovh/" style="color: #333; text-decoration: none; font-weight: bold;">wallah c pas un virus</a></td>
+      <td><a href="https://slddl.ovh/" style="color: #333; text-decoration: none; font-weight: bold;">wallah c pas un virus</a></td>
+    </tr>
 </div>
