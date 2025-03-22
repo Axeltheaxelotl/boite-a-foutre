@@ -70,6 +70,8 @@
   <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-23-14.png?raw=true" alt="Sam et sa cousine" style="width:1000px; height:500px;">
 </div>
 
+---
+
 <br>
 
 <br>
