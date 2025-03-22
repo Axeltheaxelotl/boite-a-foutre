@@ -49,14 +49,18 @@
   </table>
 </div>
 
+---
+
 <div align="center" style="text-align: center;">
   <table>
     <tr><td colspan="2" ><h1 align="left">Contacts ദ്ദി •⩊• )</h1></td></tr>
     <tr>
       <td><a href="https://slddl.ovh/" style="color: #333; text-decoration: none; font-weight: bold;">wallah c pas un virus</a></td>
-      <td><img src="https://i.pinimg.com/originals/1f/27/9f/1f279fd24a9d1e199ac3b9bbaa173327.gif" alt="Sam et sa cousine" style="width:300x; height:150px;"></td>
+      <td><img src="https://i.pinimg.com/originals/1f/27/9f/1f279fd24a9d1e199ac3b9bbaa173327.gif" alt="Sam et sa cousine" style="width:350px; height:200px;"></td>
     </tr>
 </div>
+
+<br></br>
 
 <h1>
   <p align="center" style="font-family: 'Courier New', monospace; font-size: 1.7em; color: #333; border: 2px solid #333; padding: 20px;">
