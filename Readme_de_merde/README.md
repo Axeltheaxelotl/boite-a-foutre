@@ -152,19 +152,10 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
 
 ---
 
-<h1 align="center">Contacts ദ്ദി •⩊• )</h1>
+<h1 align="left">Contacts ദ്ദി •⩊• )</h1>
 
-<div style="text-align: center;">
-  <table align="center" style="width: 100%; table-layout: fixed;">
-    <tr>
-      <td style="text-align: center;">
-        <a href="https://slddl.ovh/" target="_blank">
-          <h4>CONTACT MOI MON LOPIN</h4>
-        </a>
-      </td>
-      <td style="text-align: center;">
-          <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/caca/Screenshot%20from%202025-03-22%2018-19-37.png?raw=true" alt="Sam et sa cousine" style="width:1000px; height:400px;"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="text-align: center;">
+    <a href="https://github.com/SLDDL/Normino">
+      <h1>wertyuiop</h1>
+    </a>
 </div>
