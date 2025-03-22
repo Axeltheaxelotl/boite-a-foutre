@@ -155,7 +155,6 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
 <h1 align="left">Contacts ദ്ദി •⩊• )</h1>
 
 <div align="center" style="text-align: center;">
-    <a href="https://github.com/SLDDL/Normino">
-      <h1>wertyuiop</h1>
+    <a href="https://slddl.ovh/" style="color: #333; text-decoration: none; font-weight: bold;">ceci et un lien</a>
     </a>
 </div>
