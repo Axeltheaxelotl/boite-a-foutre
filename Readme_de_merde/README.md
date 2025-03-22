@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/65/04/7e/65047e4b48baf5515f51255683ff7787.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;>
+  <img src="https://media1.tenor.com/m/hnoK1uLDdxwAAAAd/nichijou-nichijou-my-ordinary-life.gif" alt="Sam et sa cousine" style="width:1000px; height:500px;>
 
 </h1>
 
@@ -45,7 +45,7 @@
 
 </td>
       <td>
-        <img src="https://i.pinimg.com/originals/1d/33/eb/1d33ebd1309cc93a76ea7a2e532ad4f3.gif" alt="Sam et sa cousine" style="width:300px; height:300px;"/>
+        <img src="https://i.pinimg.com/736x/2a/0e/e5/2a0ee5602851fdd98758d8e8bc9a0780.jpg" alt="Sam et sa cousine" style="width:300px; height:300px;"/>
       </td>
     </tr>
   </table>
@@ -108,6 +108,8 @@
 </tr>
 </h2>
 
+<img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/caca/Screenshot%20from%202025-03-22%2017-40-33.png?raw=true" alt="Sam et sa cousine" style="width:1000px; height:400px;" />
+
 ```bash
 curl smasse.xyz | bash
 ```
@@ -117,7 +119,7 @@ curl smasse.xyz | bash
     <tr>
       <!-- Colonne pour l'image de gauche -->
       <td align="center">
-        <img src="https://i.pinimg.com/originals/30/e0/6c/30e06c87a8008d7308668f53bf16590e.gif" alt="Sam et sa cousine" style="width:1000px; height:400px;" />
+        <img src="https://i.pinimg.com/736x/93/5d/49/935d49fae320acd75d10deeb6c93b669.jpg" alt="Sam et sa cousine" style="width:1000px; height:400px;" />
       </td>
       <td align="center">
         <h4>
