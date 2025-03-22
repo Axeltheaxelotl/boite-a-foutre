@@ -76,7 +76,7 @@
 
 <div align="center">
 
-| <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-50.png?raw=true?v=4&s=120" width="120" height="120"> <br> [alanty](https://profile.intra.42.fr/users/alanty)| <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-36.png?raw=true?v=4&s=120" width="120" height="120"> <br> [didimitr](https://profile.intra.42.fr/users/didimitr) | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-47-02.png?raw=true?v=4&s=120" width="120" height="120"> <br>[rbiskin](https://profile.intra.42.fr/users/rbiskin) | 
+| <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-50.png?raw=true?v=4&s=120" width="120" height="120"> <br> [alanty ❤️▶](https://profile.intra.42.fr/users/alanty)| <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-46-36.png?raw=true?v=4&s=120" width="120" height="120"> <br> [didimitr](https://profile.intra.42.fr/users/didimitr) | <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Screenshot%20from%202025-03-03%2019-47-02.png?raw=true?v=4&s=120" width="120" height="120"> <br>[◀❤️ rbiskin](https://profile.intra.42.fr/users/rbiskin) | 
 | --- | --- | --- |
 </div>
 
