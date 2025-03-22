@@ -127,7 +127,7 @@ curl smasse.xyz | bash
     <tr>
       <!-- Colonne pour l'image de gauche -->
       <td align="center">
-        <img src="https://i.pinimg.com/736x/93/5d/49/935d49fae320acd75d10deeb6c93b669.jpg" alt="Sam et sa cousine" style="width:1000px; height:400px;" />
+        <img src="https://i.pinimg.com/736x/bc/a1/1d/bca11d741365f3bb2b2eecadf56231a1.jpg" alt="Sam et sa cousine" style="width:1000px; height:400px;" />
       </td>
       <td align="center">
         <h4>
