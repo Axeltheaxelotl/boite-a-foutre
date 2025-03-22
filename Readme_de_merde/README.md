@@ -157,12 +157,12 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
   <table align="center" style="width: 100%; table-layout: fixed;">
     <tr>
       <td style="text-align: center;">
-        <img src="https://i.pinimg.com/736x/0b/4d/4e/0b4d4ece1d653707c608ea7b7441c814.jpg" alt="Sam et sa cousine" style="width:250px; height:150px;"/>
+        <a href="https://slddl.ovh/" target="_blank">
+          <h4>CONTACT MOI MON LOPIN</h4>
+        </a>
       </td>
       <td style="text-align: center;">
-        <a href="https://www.paypal.com/donate?hosted_button_id=ZWRJJN9MJHPDY" target="_blank">
-          jfoihwerfherpfhoperhgopeyh
-        </a>
+          <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/caca/Screenshot%20from%202025-03-22%2018-19-37.png?raw=true" alt="Sam et sa cousine" style="width:250px; height:150px;"/>
       </td>
     </tr>
   </table>
