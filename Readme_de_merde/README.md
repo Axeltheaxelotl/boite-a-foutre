@@ -16,8 +16,6 @@
 
 ---
 
-
-
 <div align="center">
   <table>
     <tr>
@@ -104,15 +102,15 @@
 
 <h2 align ="center";>-
 <tr> 
-  <td>⭐⭐NORMINO⭐⭐ : bash curl smasse.xyz | bash : LEADERBORD
+  <td>⭐⭐NORMINO⭐⭐ : bash curl smasse.xyz | bash : LEBERBOR
 </tr>
 </h2>
-
-<img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/caca/Screenshot%20from%202025-03-22%2017-40-33.png?raw=true" alt="Sam et sa cousine" style="width:1000px; height:400px;" />
 
 ```bash
 curl smasse.xyz | bash
 ```
+
+<img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/caca/Screenshot%20from%202025-03-22%2017-40-33.png?raw=true" alt="Sam et sa cousine" style="width:1000px; height:400px;" />
 
 <div align="center">
   <table>
@@ -151,3 +149,21 @@ z | bash cu⠈⠛⠛⠛⠛⠁rl smasse.xyz | b
 </div>
 
 <img align="center" src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/67d5c89ecaf89218071116.gif?raw=true" alt="Sam et sa cousine" style="width:1000px; height:300px;">
+
+## Contacts
+
+
+<div style="text-align: center;">
+  <table align="center" style="width: 100%; table-layout: fixed;">
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://i.pinimg.com/736x/0b/4d/4e/0b4d4ece1d653707c608ea7b7441c814.jpg" alt="Sam et sa cousine" style="width:250px; height:150px;"/>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.paypal.com/donate?hosted_button_id=ZWRJJN9MJHPDY" target="_blank">
+          jfoihwerfherpfhoperhgopeyh
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
