@@ -41,7 +41,7 @@
 
 </td>
       <td>
-        <img src="https://i.pinimg.com/736x/2a/0e/e5/2a0ee5602851fdd98758d8e8bc9a0780.jpg" alt="Sam et sa cousine" style="width:300px; height:300px;"/>
+        <img src="https://i.pinimg.com/originals/06/62/43/06624397d58053053aeda398129e6a7a.gif" alt="Sam et sa cousine" style="width:300px; height:300px;"/>
       </td>
     </tr>
   </table>
@@ -54,7 +54,7 @@
     <tr><td colspan="2" ><h1 align="center">⬇️⬇️⬇️⬇️⬇️ Contacts •⩊• ⬇️⬇️⬇️⬇️⬇️</h1></td></tr>
     <tr>
       <td><a href="https://slddl.ovh/" style="color: #333; text-decoration: none; font-weight: bold;">🔗wallah c pas un virus</a></td>
-      <td><img src="https://i.pinimg.com/originals/06/62/43/06624397d58053053aeda398129e6a7a.gif" alt="Sam et sa cousine" style="width:375px; height:225px;"></td>
+      <td><img src="https://i.pinimg.com/736x/af/6d/44/af6d44532d750048c97025218754a138.jpg" alt="Sam et sa cousine" style="width:375px; height:225px;"></td>
     </tr>
 </div>
 
