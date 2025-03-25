@@ -55,7 +55,7 @@
     <tr><td colspan="2" ><h1 align="center">⬇️⬇️⬇️⬇️⬇️ Contacts •⩊• ⬇️⬇️⬇️⬇️⬇️</h1></td></tr>
     <tr>
       <td><a href="https://slddl.ovh/" style="color: #333; text-decoration: none; font-weight: bold;">🔗wallah c pas un virus</a></td>
-      <td><img src="https://i.pinimg.com/736x/af/6d/44/af6d44532d750048c97025218754a138.jpg" alt="Sam et sa cousine" style="width:275px; height:225px;"></td>
+      <td><img src="https://i.imgur.com/Aflnwzt_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" alt="Sam et sa cousine" style="width:275px; height:225px;"></td>
     </tr>
 </div>
 
